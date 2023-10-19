@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="{% static 'base.css' %}" rel="stylesheet" />
+</head>
+<body>
+    <div class="spline">
+        <script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.456/build/spline-viewer.js"></script>
+        <spline-viewer url="https://prod.spline.design/a6bLOtSfFfESMHTU/scene.splinecode"></spline-viewer>
+    </div>
+    <nav>
+        <div>
+            <button><a style="text-decoration: none;" href="{% url 'base' %}">Home</a></button>
+        </div>
+    </nav>
+    {% if request.path == '/' %}
+    <form action="/" method="post">
+        {% csrf_token %}
+       CSV File : <input type="file" name="ifile" accept=".csv" required/>
+       Chapter : <input type="number" name="chno" required/>
+       <input type="submit">
+    </form>
+    {% else %}
+    {% block card %}
+    {% endblock card %}
+    {% endif %}
+
+    {% block result %}
+    {% endblock result %}
+</body>
+</html>

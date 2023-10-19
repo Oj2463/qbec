@@ -1,0 +1,60 @@
+{% extends 'base.html' %}
+{% block result %}
+<div class="heading">
+    Result
+</div>
+    <div class="correct">
+       Correct Answer : {{correct}}
+    </div>
+    <div class="card">
+        <table border="2px solid black" style="text-align: center;">
+            <tr>
+                <th>No.</th>
+                <th>Question</th>
+                <th>Selected Answer</th>
+                <th>Correct Answer</th>
+                <th>A</th>
+                <th>B</th>
+                <th>C</th>
+                <th>D</th>
+            </tr>
+            {% for key, value in result.items %}
+            <tr>
+                <td>{{value.6|add:1}}</td>
+                <td>{{key}}</td>
+                {% if value.0|lower == value.1|lower %}
+                <td style="background-color: lightgreen;">{{value.0}}</td>
+                {% else %}
+                <td style="background-color: rgb(218, 125, 125);">{{value.0}}</td>
+                {% endif %}
+                <td>{{value.1}}</td>
+
+                {% if value.1|lower == "a" %}
+                <td style="background-color: rgb(179, 220, 179);">{{value.2}}</td>
+                {% else %}
+                <td>{{value.2}}</td>
+                {% endif %}
+
+                {% if value.1|lower == "b" %}
+                <td style="background-color: rgb(179, 220, 179);">{{value.3}}</td>
+                {% else %}
+                <td>{{value.3}}</td>
+                {% endif %}
+                
+                {% if value.1|lower == "c" %}
+                <td style="background-color:rgb(179, 220, 179);">{{value.4}}</td>
+                {% else %}
+                <td>{{value.4}}</td>
+                {% endif %}
+
+                {% if value.1|lower == "d" %}
+                <td style="background-color: rgb(179, 220, 179);">{{value.5}}</td>
+                {% else %}
+                <td>{{value.5}}</td>
+                {% endif %}
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+{% endblock result %}

@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block card %}
+<form action="{% url 'card' %}" method="post" >
+    <input type = "hidden" name = "length" value="{{quelen}}" />
+    {% for i in data %}
+    {% csrf_token %}
+    <div class="card">
+        <div>
+            Chapter : {{i.0}} 
+        </div>
+        <div>Question : {{i.1}}</div>
+        <div><input type="radio" name="opt{{i.7}}" value="A" required> A : {{i.3}}</div>
+        <div><input type="radio" name="opt{{i.7}}" value="B" required> B : {{i.4}}</div>
+        <div><input type="radio" name="opt{{i.7}}" value="C" required> C : {{i.5}}</div>
+        <div><input type="radio" name="opt{{i.7}}" value="D" required> D : {{i.6}}</div>
+    </div>
+    {% endfor %}
+    <input type="submit" />
+</form>
+{% endblock card %}
+

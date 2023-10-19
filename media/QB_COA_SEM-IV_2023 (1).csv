@@ -1,0 +1,1003 @@
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"1","1","What is computer architecture?","b","1","set of categories and methods that specify the functioning, organisation, and implementation of computer systems","set of principles and methods that specify the functioning, organisation, and implementation of computer systems","set of functions and methods that specify the functioning, organisation, and implementation of computer systems","None of the mentioned","",""
+"1","2","What is computer organization?","a","1","structure and behaviour of a computer system as observed by the user","structure of a computer system as observed by the developer","structure and behaviour of a computer system as observed by the
+developer","All of the mentioned","",""
+"1","3","Represent fix point representation for Unsigned Binary no 0110110 using 4
+integer bits and 3 fractional bits in decimal.","0110.110,(6.75)10","1","","","","","",""
+"1","4","Represent (-7.5)10 in i)signed magnitude ii)1's compliment iii) 2's compliment","i)(1111.1000)2
+ii)(1000.0111)2 iii)(1000.1000)2","2","","","","","",""
+"1","5","Compute(0.75)10 +(-0.625)10 using fixpoint representation.","(0000.0010)2","1","","","","","",""
+"1","6","Assume no using 32 bit representation 1 for sign,15 for integer bits and 16 for fractional part.for  no (-43.625)10","(10000000001010
+11.101000000000
+0000)2","2","","","","","",""
+"1","7","Convert decimal no 7.75 to fixed point binary","(0111.1100)2","1","","","","","",""
+"1","8","The binary number is stored in 2's compliment form having 8 bit integer and 4 bit fractional part.Convert them in decimal fractional.
+i)0111 1111.1111
+ii)1111 1111.1111
+iii)0000 0111.0010","i)(127.9375)10 ii)(-0.0625)10
+iii)(7.125)10","3","","","","","",""
+"1","9","Using 2's copliment form convert the following decimal no in to fixed point binary no stored in 16- bit register having 4-bit after decimal point.
+a)7.5
+b)-45.75","a)(0000 0000
+0111.1000)2
+b)(1111 1110
+0010.0100)2","2","","","","","",""
+"1","10","Represent no in to 32 bit ANSI IEEE format (-0.125)","1 1111110
+10000...","2","","","","","",""
+"1","11","Convert -17 in standard floting point format.","1 0000101
+1000100...","2","","","","","",""
+"1","12","What is 16 bit pattern which represent(-13.5) in normalized signed magnitude fraction
+S=1 bit,E=7 bits, M=8 bits","1 0000100  1101
+1000","2","","","","","",""
+"1","13","Represent binary floting point no in to decimal formate in which 9 bits are
+for M .Which are followed by MSD bit which is sign bit and last 6 bits are E bits.
+0110100000000011","(6.5)10","2","","","","","",""
+"1","14","Represent binary floting point no in to decimal formate in which 9 bits are for M .Which are followed by MSD bit which is sign bit and last 6 bits are E bits.
+0101010000000010","(2.625)10","2","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"1","15","Represent (263.3)10 in 32 bit floting point notation","0
+.100000111*2^9 0 0001001
+10000011101001
+1000000000","2","","","","","",""
+"1","16","0110110000000100 Given no in floating point having MSB sign bit follwed
+by 10 bits Mantissa and then 6 bits exponents.","(13.5)10","1","","","","","",""
+"1","17","Represent (46.5)10 as floating point binary no stored in 24 bit register having 16-bit fractional M and 8 bit Exponent.","0 0000 0110
+10111010000000
+00","1","","","","","",""
+"1","18","Express (5.875)10 in
+i)explicit and ii)Implicit form.","i)0 0011 10111
+ii)0 0010 01111","2","","","","","",""
+"1","19","Express (-0.0625)10 in
+i)explicit and ii)Implicit form.","i)1 1101 10000
+ii)1 1110 00000","2","","","","","",""
+"1","20","Express (1259.125)10 in
+i)explicit and ii)Implicit form.","i)0 0001011
+10011101011001
+0000000000
+ii) 0 0001010
+00111010110010
+0000000000","2","","","","","",""
+"1","21","Perform arithmetic operation +70 and +80 give the status of overflow
+bit=                     ","OV=1","1","","","","","",""
+"1","22","Perform arithmetic operation -70 and -80 give the status of overflow
+bit=               ","OV=1","1","","","","","",""
+"1","23","Perform arithmetic operation +70 and -80 give the status of overflow
+bit=           ","OV=0","1","","","","","",""
+"1","24","What is the minimum integer in 11 bit 2's compliment representation in
+decimal
+a)-511                                                         a)1023
+b)-512                               to                     b)1024
+c)-1024                                                       c)512
+d)-1024                                                       d)511","-1024 to 1023","1","","","","","",""
+"1","25","Express (-21.75)in Explicit form M=8,E=6,S=1","1 000101
+10101110","1","","","","","",""
+"1","26","What is the result of evaluating following 2 expression using 3 decimal digit floting point arithmetic with rounding
+a)(113.+-111.)+7.51
+b)113.+(-111.+7.51)","a","1","9.51 and 10.0
+respectively","10.0 and 9.51
+respectively","9.51 and 9.51
+respectively","10.0 and 10.0
+respectively","",""
+"1","27","If the decimal point is placed to the right of the first significant digit, then
+the number is called                  ","b","1","Orthogonal","Normalized","Determinate","None of the
+mentioned","",""
+"1","28","Perform the addition operationusing signed 10's compliment representation
+(+375)+(-240)","(0135)10","1","","","","","",""
+"1","29","Represent (5.875)10 in explicit and implicit floating point number.","","2","","","","","",""
+"1","30","x=0.0001101001101, represent x in implicit and explicit floating point
+number.","","2","","","","","",""
+"1","31","Express (13)10 and (-17)10 in standard floating point byte format.","","2","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"1","32","Perform the subtraction with following unsigndecimal number by taking 10's compliment representation
+i)5250-1321
+ii)20-100","","2","","","","","",""
+"1","33","Perform the subtraction with following unsigndecimal number by taking 2's compliment representation
+i)11010-1101
+ii)100-110000","","2","","","","","",""
+"1","34","Let R1 and R2 be two 4-bit registers that store numbers in 2’s complement form. For the operation R1+R2, which one of the following values of R1 and
+R2 gives an arithmetic overflow?","b","1","R1 = 1011 and R2 = 1110","R1 = 1100 and R2 = 1010","R1 = 0011 and R2 = 0100","R1 = 1001 and R2 = 1111","",""
+"1","35","What is the 16 bits pattern which represent (-13.5) in normalized signed magnitude fraction . S = 1 bit , Exponent = 7 bits , Mantissa = 8 bits .
+Represent it in hexadecimal also.","(84D8)16","2","","","","","",""
+"2","36","The operation executed on data stored in registers is called?","b","1","Data","Micro-operations","Transfer","Control","",""
+"2","37","Which micro-operations carry information from one register to another:","a","1","Register transfer","Arithmetic","Logical","Program Control","",""
+"2","38","A digital computer has a common bus system for 16 registers of 32 bits each. The bus is constructed with multiplexers. The number of multiplexers in the bus and size of multiplexers is respectively                      ","c","1","32,32:1","16,16:1","32,16:1","16,32:1","",""
+"2","39","An 8-bit register contains the binary value 1100 1011. What is the register
+value after arithmetic shift right?","b","1","1100 1011","1110 0101","0110 0101","0100 1011","",""
+"2","40","Which are the operation that a computer performs on data that put in
+register ?","d","1","Register transfer","Arithmetic","Logical","All of mentioned","",""
+"2","41","Which micro operations carry information from one register to another?","a","1","Register transfer","Arithmetic","Logical","All of mentioned","",""
+"2","42","Micro operation is shown as:","b","1","R1->R2","R1<-R2","Both","None","",""
+"2","43","In memory transfer location address is supplied by                           that puts
+this on address bus:","b","1","ALU","CPU","MAR","MDR","",""
+"2","44","Operation of memory transfer are:","c","1","Read","Write","Both","None","",""
+"2","45","In memory read the operation puts memory address on to a register known
+as:","c","1","PC","ALU","MAR","All of these","",""
+"2","46","In arithmetic operation numbers of register and the circuits for addition at
+                         .","a","1","ALU","CPU","MAR","MDR","",""
+"2","47","In which shift is used to divide a signed number by two:","b","1","Logical right-shift","Arithmetic right shift","Logical left shift","Arithmetic left shift","",""
+"2","48","The third state of Tri-state buffer mainly known as                  ","a","1","High impedance","Low impedance","High capacitive","Low Resistance","",""
+"2","49","A collection of lines that connects several devices is called                 ","a","1","Bus","Wires","Buffer","Gates","",""
+"2","50","Register A holds the value 1010 & Register B holds the value 1100. What will
+be the output of selective-set operation?","c","1","1111","1000","1110","0011'","",""
+"2","51","Register A holds the value 1010 & Register B holds the value 1100. What will
+be the output of selective-complement operation?","a","1","0110'","0000'","1111","1000","",""
+"2","52","Register A holds the value 1010 & Register B holds the value 1100. What will
+be the output of Selective-clear operation?","d","1","1000","1110","0101'","0010'","",""
+"2","53","Register A holds the value 1010 & Register B holds the value 1100. What will
+be the output of Mask operation?","b","1","0010'","1000","0101'","1100","",""
+"2","54","Which of the following shift operation is known as rotate operation?","b","1","Arithmetic","Circular","Logical","All of Mentioned","",""
+"2","55","By the help which operation we put memory address in memory address
+register and data in data register?","a","1","Memory Write","Memory Read","I/o Read","I/o Write","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"2","56","RTL stands for","b","1","Random transfer
+language","Register transfer
+language","Arithmetic transfer
+language","Read Trasnfer
+Language","",""
+"2","57","Which  language  is  termed  as  the  symbolic depiction used for indicating
+the series:","","1","Random transfer
+language","Register transfer
+language","Arithmetic transfer
+language","Read Trasnfer
+Language","",""
+"2","58","In  which transfer the  computer  register  are indicated in capital letters for
+depicting its function:","a","1","Register Transfer","Memory Transfer","Bus Transfer","None","",""
+"2","59","Every bit of register has:","c","1","2 common line","4 common line","1 common line","8 common line","",""
+"2","60","How many types of shift micro operation","d","1","2","3","4","6","",""
+"2","61","Which shift is a shift micro operation which is used  to  shift  a signed binary
+number to  the  left  or right:","","1","Arithmetic","Circular","Logical","All of Mentioned","",""
+"2","62","Arithmetic  left  shift  is  used  to  multiply a signed number by         ","a","1","2","4","8","0","",""
+"2","63","The ALS represents                             ","a","1","Arithmetic Logic Shift
+Unit.","Auto Logic Shift Unit.","Arithmetic Logic
+Simple Unit.","Auto Logic Shift Unit.","",""
+"2","64","A digital computer has a common bus system for k registers of n bits each. The bus is constructed with multiplexers. The number of multiplexers in the
+bus and size of multiplexers is respectively","d","1","k, n:1","k, k:1","n, n:1","n, k:1","",""
+"2","65","4- Bit Binary Adder can be designed using          Full Adder","a","1","4","8","16","2","",""
+"2","66","Design and explain a common bus system for four register each of 4 bit
+using multiplexer.","","3","","","","","",""
+"2","67","A digital computer has a common bus system for 16 registers of 32 bits
+each:
+(i) How many selection input are there in each multiplexer?
+(ii) What size of multiplexers are needed?
+(iii) How many multiplexers are there in a bus?","","3","","","","","",""
+"2","68","Represent the following conditional control statements by two register
+transfer statements with control function. If (P = 1) then (R1 <-- R2) else if (Q=1) then (R1 <-- R3)","","3","","","","","",""
+"2","69","Design 4-Bit Arithmetic circuit using 4 * 1 multiplexer with selection line S1 and S0 where S1S0 = 00 for decrement, S1S0= 11 for increment, S1S0 = 01
+for Addition and S1S0 for Subtraction","","3","","","","","",""
+"2","70","Register A holds the 8-bit binary 11011001. Determine the B operand and the logic microoperation to be performed in order to change the value of A to:
+(i) 01111101
+(ii) 11010000
+(iii) 11111001","","3","","","","","",""
+"2","71","Construct of common bus system with three-state buffers using diagram.","","3","","","","","",""
+"2","72","Design a digital circuit for 4-bit binary adder.","","3","","","","","",""
+"2","73","Design 4-Bit Binary Adder-Subtractor Circuit","","3","","","","","",""
+"2","74","Design 4-Bit Binary Incrementer Circuit","","3","","","","","",""
+"2","75","Design 4-Bit Combinational circuit Decrementer using four full-adder
+circuits.","","2","","","","","",""
+"2","76","Design a simple arithmetic circuit which should implement the following operations: Assume A and B are 3 bit registers.
+Add : A+B, Add with Carry: A+B+1, Subtract: A+B’, Subtract with  Borrow: A+B’+1, Increment A: A+1, Decrement A: A-1, Transfer A:  A","","3","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"2","77","Implement the following register transfer statement. T2: R2 - R1, R1- R2","","","","","","","",""
+"2","78","An 8-bit register contains the binary value 10011100. What is the register
+content after arithmetic shift right? Starting from the initial value 10011100, determine the register content after an arithmetic shift left, and state whether there is an overflow.","","4","","","","","",""
+"2","79","Design 4-bit Arithmetic Circuit with its Function Table.","","4","","","","","",""
+"2","80","Construct 4-bit combinational circuit shifter diagram","","4","","","","","",""
+"2","81","Design an arithmetic circuit with one selection variable S and two n-bit data
+inputs A and B. The circuit generates the following four arithmetic operations in conjunction with the input carry Cin. Draw the logic diagram for the first two stages.
+S        Cin = 0                               Cin = 1
+0        D= A+B (add)                    D= A+1 (increment)
+1        D= A-1 (decrement)        D= A+B′+1 (subtract)","","4","","","","","",""
+"3","82","Only instructions with zero, one & two adresses are supported by some CPUs. The size of an OP-CODE is 16-bit, whereas the size of an adress is 4 bits. What is maximum number of two adress instruction ?","256","1","256","64","8","128","",""
+"3","83","A computer has an instruction size of 16 bits and has 16 programmer visible registers. Each instruction has two source and one destination operands and uses only register direct adressing. The maximum number of opcodes that
+this processor can have is","16","1","64","32","16","8","",""
+"3","84","Which cycle refers to the time period during which one instruction is
+fetched and executed by the CPU:","instruction cycle","1","fetch cyce","instruction cycle","decode cycle","execute cycle","",""
+"3","85","How many stages of instruction cycle:","4","1","5","6","4","7","",""
+"3","86","Which instruction are used in multithreaded parallel processor architecture:","memory referance
+instruction","1","memory referance instruction","memory referance format","both","none","",""
+"3","87","CPU has built-in ability to execute a particular set of machine instructions, called as                      ","Instruction Set","","a) Instruction Set","b) Registers","c) Sequence Set","d) User instructions","",""
+"3","88","Choose the correct statement from following
+1). Opcode indicates the operations to be performed
+2). The length of a register is called register limit.
+3) the instructions STA 16-bit address; ADD A, B, ; MUL C, D & RET out of this only STA 16-bit address is data transfer instruction
+4) the number of sign bits in a 32-bit IEEE format is 1","c) 1,3,4","1","1, 2, 3, 4","2, 4 only","1, 3, 2004","1 & 2 only","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"3","89","Match the followings
+HEX code / symbol  Description / hex code
+1) AND                       p) 7008
+2) EXXX                      q) 7004
+3) STA with I = 1        r) 5XXX
+4) BSA with I = 0       s) Increment & skip if zero.
+5) SZA                         t) 0XXX with I=0
+u) BXXX
+v) Branch & save return address
+w) Load memory word to AC
+x) 3XXX","c) 1 – t , 2 – s , 3 –
+u , 4 – r , 5 – p","1","a) 1 – x , 2 – w , 3 – r , 4 – v , 5 – q","b) 1 - w , 2 – s , 3 – x , 4
+v, 5 – p","c) 1 – t , 2 – s , 3 – u , 4
+– r , 5 – p","d) 1 – u, 2 – w, 3 – x, 4
+– v, 5 – q","",""
+"3","90","Which of the following register holds the address of instruction","PC","1","DR","PC","IR","AC","",""
+"3","91","Which register holds memory operand","DR","1","DR","AR","AC","IR","",""
+"3","92","Which register holds address of memory","AR","1","DR","AR","PC","TR","",""
+"3","93","Which register holds instruction code","IR","1","DR","AR","IR","PC","",""
+"3","94","Which of the following register has 12 bits
+1. DR 2. AR 3. AC 4. PC 5. TR 6. IR 7. INPR 8. OUTR","C) 3 & 5","","A) 1 & 2","B) 2&4","C) 3 & 5","D) 7 & 8","",""
+"3","95","Which of the following is group of bits that instruct the computer to
+perform a specific operation","Instruction code","1","address","memory","program counter","instruction code","",""
+"3","96","what will be the contents of processor register and extended bit after execution of following instruction code if the initial content of AC is F000 and memory locations [300] are 567 and [567] are 200 respectively ?
+1    AND   300
+0    ADD   567 CME","200,0","1","200,1","F200,1","200,0","FDFF, 1","",""
+"3","97","Which of the following represent the size of processor register and hex code
+for a register reference instruction ?","16, 7080","1","16 , F080","16, 7080","8, F080","8, 7080","",""
+"3","98","Which of following pair match correct ?
+1. 2n micro operations     p. 16 bits
+2. PC                                    q. E=0
+3. CLE                                   r. 12 Bits
+4. CMA                                s. n bits opcode
+5. AC                                    t. 2n bit op code
+6. DR                                    u. complement processor register","(1,s), (2,r), (3,q),
+(4,u) , (5,p), (6,p)","1","(1,s), (2,r), (3,r), (4,q) , (5,p), (6,p)","(1,t), (2,r), (3,r), (4,q) , (5,p), (6,p)","(1,s), (2,r), (3,q), (4,u) , (5,p), (6,p)","(1,t), (2,r), (3,r), (4,u) , (5,p), (6,p)","",""
+"3","99","Which of the following is used to stores address of memory from which data
+is collected & sent to CPU","memory address
+register","1","program counter","cache memory","memory address
+register","memory data register","",""
+"3","100","the register which keeps tracks of execution of program & which contains the memory address of instruction currently being executed is called","program counter","1","index register","memory address register","program counter","instruction register","",""
+"3","101","program counter contents indicates","the adress where next instruction is stored","1","the time elapsed since execution begins","the count of programs being executed after switching the power ON","the adress where next instruction is stored","the time needed to execute a program","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"3","102","statement associated with register of CPU are given , identify the false statement","program counter holds the memory address of the instruction in execution","1","program counter holds the memory address of the instruction in execution","only opcode is transferred to control unit","an instruction in the instruction register consists of opcode & operand","the value of program counter is incremented by 1 once its value has been read to memory address register","",""
+"3","103","write basic single address instruction code to evaluate the following arithmetic statement Y = ( A* B ) + ( C+ D) + 1 . Explain execution of given statement using 16-bit common bus system for basic computer system. Draw timing diagram for loading processor register with content present at
+M[A].","","5","","","","","",""
+"3","104","write basic single address instruction code to evaluate the following arithmetic statement Y = (A+C+D)+1 . Explain execution of given statement using 16-bit common bus system for basic computer system. Draw timing diagram for ADDING processor register with content present at M[C].","","5","","","","","",""
+"3","105","illustration about Time-shared common bus interconnection structure","","5","","","","","",""
+"3","106","illustrate the register reference instruction format.","","3","","","","","",""
+"3","107","a computer uses a memory unit with 256k words of 32 bits each, a binary instruction code is stored in one word of memory. The instruction has four parts : an indirect bit, am operation code, a register code part to specify one of 64 register and an address part. find how many bits are there in the operation code, the register code part, and address part respectively","7,6,18","1","7,6,18","5,6,20","7,5,19","5,7,19","",""
+"3","108","what is the difference between a direct and indirect address instruction ? How many references to memory are needed for each type of instruction to
+bring an operand into a processor register ?","","2","","","","","",""
+"3","109","consider the instruction formats of the basic computer, for each of the following 16-bit instruction, gives the equivalent four digit hexa decimal code and explain in your own words what it is that the instruction is going to perform. A) 0001 0000 0010 0100 B) 1011 0001 0010 0100 C) 0111 0000
+0010 0000","","4","","","","","",""
+"3","110","draw the timing diagram of following instruction : D3T4 : SC <-- 0","","3","","","","","",""
+"3","111","which bus is used to specify memory location for the data being transfered","address bus","1","control bus","data bus","address bus","i/o bus","",""
+"3","112","which  of the following stores operand during execution and result of
+operation after execution","accumulator","1","general purpose
+register","stack register","flag register","accumulator","",""
+"3","113","D2T4: DR← M [AR]
+D2T5: AC← DR ,  ← 0  this indicate which computer instructions ?","LDA","1","LDA","STA","ADD","AND","",""
+"3","114","Identify the computer instruction, This instruction stores the content of AC into the memory word specified by the effective address. Since the output of AC is applied to the bus and the data input of memory is connected to the bus, we can execute this instruction with one microoperation:","STA","1","LDA","STA","ADD","BUN","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"3","115","Identify the computer instruction, This instruction transfers the program to the instruction specified by the effective address. Remember that PC holds the address of the instruction to be read from memory in the next instruction cycle. PC is incremented at time T1 to prepare it for the address of the next instruction in the program sequence. This instruction allows the programmer to specify an instruction out of sequence and we say that the program branches","BUN","1","BUN","BSA","LDA","ISZ","",""
+"3","116","Identify the computer instruction which having following micro operation is D6T4: DR <-- M [AR]
+D6T5: DR <-- DR + 1 D,T,: M [AR] <-- DR,
+if (DR = 0) then (PC ← PC + 1), SC ← 0","ISZ","1","BUN","BSA","LDA","ISZ","",""
+"3","117","An addressing of memory having 16-bit format, out of this its 15th bit is 0, 12th 13th & 14th bit is having 0 1 0 value respectively & rest of the bits value is unkonwn then find what type of address, which memory referance
+instruction with its HEXCODE notation","direct, ADD, 1XXX","1","direct, AND, 0XXX","Indirect, AND, 8XXX","indirect, ADD,  9XXX","direct, ADD, 1XXX","",""
+"3","118","An addressing of memory having 16-bit format, out of this its 15th bit is 1, 12th 13th & 14th bit is having 0 1 1  value respectively & rest of the bits value is unkonwn then find what type of address, which memory referance
+instruction with its HEXCODE notation","INDIRECT, ISZ, EXXX","1","INDIRECT, BUN, CXXX","INDIRECT, STA, BXXX","INDIRECT, BSA, DXXX","INDIRECT, ISZ, EXXX","",""
+"3","119","Which register referance instruction is used for skip next instruction if
+Accumulator is positive","SPA","1","SPA","STA","SNA","SZE","",""
+"3","120","The register referance instruction having hex code of 7004 is.....","SZE","1","SZE","SPA","SZA","SNA","",""
+"3","121","MAtch the followings
+HEX code / symbol  Description / hex code
+1) CLA                      p) 7800
+2) HLT                      q) 7040
+3) SZE                       r) 7200
+4) SNA                      s) 7002
+5) CME                     t) 7010
+u) 7008
+v) 7004
+w) 7100
+x) 7001","1- P, 2- X, 3- S, 4 - U, 5 - W","1","1- P, 2- X, 3- S, 4 -U, 5 - W","1- Q, 2- S, 3- X, 4 -P, 5 - T","1- R, 2- T, 3- V, 4 -W, 5 - X","1- T, 2- U, 3- V, 4 -W, 5 X","",""
+"4","122","Which of the following instruction is used to skip next instruction if (A-B) < 0
+?","a","1","SNA","SPA","SZE","SZA","",""
+"4","123","Which of the following instruction is used to skip next instruction if (A-B) > 0
+?","b","1","SNA","SPA","SZE","SZA","",""
+"4","124","Which of the following instruction is used to skip next instruction if (A-B) = 0
+?","d","1","SNA","SPA","SZE","SZA","",""
+"4","125","Explain execution time for following instruction with example: a) ISZ b) SZA
+c) SKI","","4","","","","","",""
+"4","126","What can be interpreted about instruction type if 15th bit (I) of instruction format is 1?","both c & d","1","direct address memory instruction","indirect address memory instruction","register reference instruction","I/O reference instruction","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"4","127","What can be interpreted about instruction type if 15th bit (I) of instruction format is 0?","both a & b","1","direct address memory instruction","indirect address memory instruction","register reference instruction","I/O reference instruction","",""
+"4","128","The first machine cycle of an instruction is always      ","a","1","instruction fetch","decode","read effective address","execute","",""
+"4","129","What are the control bits for CMA instruction ?","","2","","","","","",""
+"4","130","What are the control bits for SZA instruction ?","","2","","","","","",""
+"4","131","What are the control bits for HLT instruction ?","","2","","","","","",""
+"4","132","What are the control bits for CIL instruction ?","","2","","","","","",""
+"4","133","State timing state for execution of BSA instruction.","","3","","","","","",""
+"4","134","State timing state for execution of ISZ instruction.","","3","","","","","",""
+"4","135","State timing state for execution of BUN instruction.","","3","","","","","",""
+"4","136","State timing state for execution of ADD instruction.","","3","","","","","",""
+"4","137","State timing state for execution of AND instruction.","","3","","","","","",""
+"4","138","State timing state for execution of LDA instruction.","","3","","","","","",""
+"4","139","State timing state for execution of STA instruction.","","3","","","","","",""
+"4","140","What will be status of FGI flag bit if input device is ready to send data to
+accumulator?","a","1","1","0","x","z","",""
+"4","141","What will be status of FGO flag bit if output device is ready to accept data
+from accumulator?","b","1","0","1","x","z","",""
+"4","142","Draw interrupt cycle","","3","","","","","",""
+"4","143","Explain execution time for following instruction with example: a) ISZ b) SPA
+c) SKO","","4","","","","","",""
+"4","144","What can be interpreted about instruction type if control statement is D7’I’T3?","a","1","direct address memory instruction","indirect address memory instruction","register reference instruction","I/O reference instruction","",""
+"4","145","What can be interpreted about instruction type if control statement is D7I’T3?","c","1","direct address memory instruction","indirect address memory instruction","register reference instruction","I/O reference instruction","",""
+"4","146","State setting condition of R flipflop in interrupt cycle.","","2","","","","","",""
+"4","147","Explain execution time for following instruction with example: a) BSA b) SNA","","4","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"4","148","Which of following pair match correct?
+1. 5 9 2 4 + - *                   p. 6
+2. ISZ                                q. D5T5
+3. BSA                              r. D6T6
+4. CMA                             s. 15
+5. postfix                           t. reverse polish
+6. SP bit size                     u. rB9","d","1","(1,p), (2,r), (3,t), (4,q), (5,s), (6,s)","(1,s), (2,r), (3,q), (4,u), (5,p), (6,r)","(1,t), (2,r), (3,q), (4,q), (5,p), (6,p)","(1,s), (2,r), (3,q), (4,u), (5,t), (6,p)","",""
+"4","149","What will be the contents of processor register after execution of following
+code?
+Location        Instruction 010        CLA
+011        ADD 016
+012        BUN 014
+013        HLT
+014        AND 017
+015        BUN 013
+016        C1A5
+017        93C5","a","1","8184","8185","C1A5","93C5","",""
+"4","150","What will be the contents of processor register after execution of following
+code?
+LocationInstruction 010CLA
+011AND 016
+012BUN 014
+013HLT
+014CMA
+015BUN 013
+016C1A5
+01793C5","c","1","8184","8185","FFFF","93C6","",""
+"4","151","What will be the contents of processor register after execution of following
+code?
+Location        Instruction 010        CLA
+011        AND 016
+012        BUN 014
+013        HLT
+014        ADD 017
+015        BUN 013
+016        C1A5
+017        93C5","d","1","8184","8185","C1A5","93C5","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"4","152","Which of the following control bit is used for checking occurrence of
+interrupt?","a","1","IEN","ION","IOF","SKI","",""
+"4","153","Which of the following instruction is used for enabling interrupt?","b","1","IEN","ION","IOF","SKI","",""
+"4","154","Which of the following instruction is used for disabling interrupt?","c","1","IEN","ION","IOF","SKI","",""
+"4","155","Explain effect of before and after interrupt execution with an example.","","4","","","","","",""
+"5","156","Write assembly language program to add two numbers.","","3","","","","","",""
+"5","157","Write assembly language program to multiply two numbers.","","5","","","","","",""
+"5","158","Write assembly language program to subtract one number from other
+number.","","5","","","","","",""
+"5","159","Write an Assembly level program to move one block of data to another
+location.","","7","","","","","",""
+"5","160","Write an Assembly level program for addition of 50 numbers.","","6","","","","","",""
+"5","161","Write an assembly language program to find whether the given number is
+prime or not.","","6","","","","","",""
+"5","162","Write an assembly language program to find factorial of the given number.","","6","","","","","",""
+"5","163","Write a program to evaluate the arithmetic statement: A*B+C*D+E
+i. Using an accumulator type computer.
+ii. Using a stack organized computer.","","5","","","","","",""
+"5","164","Write ALP for addition of 10 numbers","","5","","","","","",""
+"5","165","Write an assembly language program to find average of 15 numbers stored
+at consecutive location inmemory.","","5","","","","","",""
+"5","166","Write an assembly language program to find the Fibonacci series up to the
+given number.","","6","","","","","",""
+"5","167","Write assembly language program to add two double precision numbers.","","5","","","","","",""
+"5","168","The following program is store d in the memory unit of basic computer.
+Show the contents of AC, PC, IR at the end after execution of each instruction.All numbers listed below in hex.
+Location       Instruction 010                CLA
+011                ADD 016
+012                BUN 014
+013                HLT
+014                AND 017
+015                BUN 013
+016                C1A5
+017                93C6","","3","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"5","169","The following program is alist of instructions in hex code. The computer executes the instructions starting from address 100. What are the content of  AC and the memory word at address 103 when computer halts?
+Location       Instruction
+100                5103
+101                7200
+102                7001
+103                0000
+104                7800
+105                7020
+106                C103","","3","","","","","",""
+"5","170","List the assembly program generated by compiler from the following program. Assume integer variables.
+SUM=0
+SUM = SUM +A+B DIF=DIF-C
+SUM = SUM + DIF","","5","","","","","",""
+"5","171","List the assembly program generated by compiler from the following IF
+statement:
+IF(A-B) 10,20,30
+the program branches to statement 10 if A-B <0; to statement 20 if A-B=0; and to
+statement 30 if A-B>0.","","5","","","","","",""
+"5","172","Write a program loop, using a pointer and a counter that clears to 0 the
+contents of hexadecimal locations 500 through 5FF.","","5","","","","","",""
+"5","173","Write a program to multiply two positive numbers by a repeated addition
+method.","","6","","","","","",""
+"5","174","Write a program to multiply two unsigned positive numbers, each with 16
+bits, to produce an unsigned double precision product.","","7","","","","","",""
+"5","175","Write a program to substract two double precision numbers.","","5","","","","","",""
+"5","176","Write a program that evaluates XOR of two logic operands.","","4","","","","","",""
+"5","177","Write a program that evaluates OR of two logic operands.","","4","","","","","",""
+"5","178","Write a program that evaluates XNOR of two logic operands.","","4","","","","","",""
+"5","179","Write a program that evaluates NOR of two logic operands.","","4","","","","","",""
+"5","180","Write a program that evaluates circular left shift of an operand","","3","","","","","",""
+"5","181","Write a program that evaluates circular right shift of an operand","","3","","","","","",""
+"5","182","Write a program that evaluates arithmetic shift left of an operand","","3","","","","","",""
+"5","183","Write a program that evaluates arithmetic shift right of an operand","","3","","","","","",""
+"5","184","Write a subroutine to circulate E and AC four times to right. If AC contains
+079C in hex and E=1 what are contents of AC and E after subroutine is executed?","","2","","","","","",""
+"5","185","The program that translates a assembly language into machine language is
+called          ","B","1","Compiler","Assembler","Translator","Coder","",""
+"5","186","The program that translates a high level language language into machine
+language is called          ","A","1","Compiler","Assembler","Translator","Coder","",""
+"5","187","Which of the following is not a pseudoinstructions?","C","1","ORG","DEC","HLT","HEX","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"5","188","Which of the following is true for symbolic address?
+1. It consists of one, two, or three but not more than three alphanumeric characters.
+2. It is terminated with comma in the label field.
+3. The first letter must be a letter and next two may be letters or numerals.","A","1","Only 1","Only 2","Only 3","All are true","",""
+"5","189","Which are the fields in assembly language?","Label, Instruction, Comment","1","","","","","",""
+"5","190","A          is defined as an instruction that does not have an address part.","C","1","MRI","Pseudoinstruction","Non-MRI","None of these","",""
+"5","191","           Instructions are translated during second pass by means of table look
+up procedures","B","1","High level program","Machine","MRI","None of these","",""
+"5","192","A set of common instructions that can be used in program many times is
+called         ","A","1","CALL","JUMP","Subroutine","Loop","",""
+"5","193","Which of Following instruction used to link between main program and a
+subroutine?","A","1","BUN","BSA","SKI","SKO","",""
+"5","194","The        Instruction checks the input flag to see if character is available to
+transfer.","B","1","BUN","SKI","BSA","SKO","",""
+"5","195","A bus oragnised CPU has 16 registers with 32 bits each, an ALU and a
+destination Decoder.
+1. How many Multiplexer are there in the A bus and what is the size of each multiplexers?
+2. How many selection inputs are needed for MUX A and MUX B?
+3. How many inputs and outputs are there in decoder?
+4. How many inputs and outputs are there in ALU for data including input and output carries?
+5. Formulate a control word for the system assuming that ALU has 35
+operations.","","4","","","","","",""
+"5","196","Specify the control word that must be applied to processor to implement the following microoperations.
+1. R1<-- R2 + R3          2. R5<--- R5-1       3. R6<--- shl R1      4.  R7<--- input","","4","","","","","",""
+"5","197","Determine the microoperations that will be executed in the processor when 14 bit control word is applied
+1.  00101001100101     2. 01001001001100   3. 00000100000010
+4. 11110001110000","","4","","","","","",""
+"5","198","Let SP = 000000 in the stack. How many items are there in the stack if:
+1. FULL =1 and EMTY = 0?
+2. FULL = 0 and EMTY = 1?","","2","","","","","",""
+"5","199","Convert the following arithmetic expressions to reverse polish notation.
+a. A*B+A*(B*D + C*E)           b. A+ B*[C*D +E*(F+G)]
+c.  [A*[B+C*(D+E)]]/[F*(G+H)]","","3","","","","","",""
+"5","200","Convert the following arithmetic expressions from reverse polish notation.
+a. A B C D E * / - +          b.  A B C * / D - E F / +
+c.  A B C D E F G +*+*+*","","3","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"5","201","Evaluate 623+-382/+*2^3+","","2","","","","","",""
+"6","202","A processor has 300 distinct instructions and 70 general-purpose registers. A 32-bit instruction word has an opcode, two register operands, and an immediate operand. The number of bits available for the immediate
+operand field is           ","B","1","8","9","6","7","",""
+"6","203","Only instructions with zero, one, and two addresses are supported by some CPUs. The size of an op-code is 16 bits, whereas the size of an address is 4 bits.What is the Maximum number of two address instructions?","C","1","128","512","256","64","",""
+"6","204","A computer has an instruction size of 16 bits and has 16 programmer visible registers. Each instruction has two source and one destination operands and uses only register direct addressing. The maximum number of opcodes that
+this processor can have is","A","1","16","8","32","64","",""
+"6","205","Consider a 32-bit processor which supports 30 instructions. Each instruction is 32 bit long and has 4 fields namely opcode, two register identifiers and an immediate operand of unsigned integer type. Maximum value of the immediate operand that can be supported by the processor is 8191. How many registers the processor has?","B","1","64","128","256","512","",""
+"6","206","A processor has 64 registers and uses 16-bit instruction format. It has two types of instructions: I-type and R-type. Each I-type instruction contains an opcode, a register name, and a 4-bit immediate value. Each R-type instruction contains an opcode and two register names. If there are 8 distinct I-type opcodes, then the maximum number of distinct R-type
+opcodes is               .","A","1","14","16","18","19","",""
+"6","207","A computer uses a memory unit of 512 K words of 32 bits each. A binary instruction code is stored in one word of the memory. The instruction has four parts: an addressing mode field to specify one of the two-addressing mode (direct and indirect), an operation code, a register code part to specify one of the 256 registers and an address part. How many bits are there in addressing mode part, opcode part, register code part and the
+address part?","1,4,8,19","2","","","","","",""
+"6","208","Consider the following :1) Operation code     2) Source operand reference
+3) Result operand reference   4) Next instruction reference, Which of the above are typical elements of machine instructions?","D","1","1,2,3 ONLY","1 AND 2 ONLY","2 ,3,4 ONLY","1,2,3,4","",""
+"6","209","A machine has a 32-bit architecture, with 1-word long instructions. It has 64 registers, each of which is 32 bits long. It needs to support 45 instructions, which have an immediate operand in addition to two register operands.
+Assuming that the immediate operand is an unsigned integer, the maximum value of the immediate operand is            ","16383","1","","","","","",""
+"6","210","A processor has 40 distinct instructions and 24 general purpose registers. A 32-bit instruction word has an opcode, two register operands and am immediate operand. The number of bits available for the immediate
+operand field is             .","C","1","8","32","16","64","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"6","211","A Computer uses a memory unit with 256K word of 32 bits each. A binary instruction code is stored in one word of memory. The instruction has four parts: an indirect bit, an operation code and a register code part to specify one of 64 registers and an address part. How many bits are there in operation code, the register code part and the address part?","B","1","7,7,18","7,6,18","6,7,18","6,6,18","",""
+"6","212","A stack-based CPU organization uses               address instructions","D","1","2","1","3","0","",""
+"6","213","In X = (M + N × O) / (P × Q), how many one-address instructions are required
+to evaluate it?","8","1","","","","","",""
+"6","214","Match the pairs in the following questions:
+(A) Base addressing               (p) Reentranecy
+(B) Indexed addressing          (q) Accumulator
+(C) Stack addressing              (r) Array
+(D) Implied addressing          (s) Position independent","C","1","A-R,B-S,C-P,D-Q","A-S, B-R,C-Q,D-P","A-S, B-R,C-P,D-Q","A-Q, B-R,C-S,D-P","",""
+"6","215","When we use auto increment or auto decrements, which of the following
+is/are true?
+1) In both, the address is used to retrieve the operand and then the address gets altered
+2) In auto increment the operand is retrieved first and then the address altered
+3) Both of them can be used on general purpose registers as well as
+memory locations","A","1","1 & 3","2","1& 2","All are true","",""
+"6","216","State whether the following statements are true or false.
+I. With one-address instructions, the programmer generally has available only one general-purpose register the accumulator.
+II. Zero-address instruction are applicable to a special memory organization
+called a stack.","D","1","Only I is true","only II is true","both are false","both are true","",""
+"6","217","Following instructions were executed on a stack machine
+PUSH X PUSH X MUL POP Y PUSH Y PUSH Y ADD PUSH Y MUL POP Z
+What is value of Z?","2x^4","2","","","","","",""
+"6","218","Which is used to store critical pieces of data during subroutines and
+interrupts:","B","1","QUEUE","STACK","ACCUMULATOR","DATA REGISTER","",""
+"6","219","Which one of the following is a special characteristic of RISC processor?","D","1","Provide direct manipulation of operands residing in
+memory","A large variety of addressing modes","Variable length instruction formats","Overlapped register window","",""
+"6","220","RISC stands for:","C","1","Remaining Instruction Set of Compiler","Remaining Intermediate Storage
+of Computer","Reduced Instruction Set Computer","Reduced Instruction Set Complier","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"6","221","A computer has 32 bit instructions and 12 bit addresses. if there are 250
+two address instructions, how many one address instrcutions can be formulated?","","3","","","","","",""
+"6","222","The memory unit of a computer has 256K words of 32 bits each. The
+computer has an instruction format with four fields: an operation code field, a mode field to specify one of seven addressing modes, a register address field to specify one of the 60  processor registers, and a memory address.
+Specify the instruction format and the number of bits in each field if the
+instcution is in one memory word.","","3","","","","","",""
+"6","223","A two word instrcution is stored in memory at an address designated by thw
+symbol W.The adddress field of the instrcution stored at W+1 is designated by symbol Y. The operand used during the execution of the instruction is stored at an address symbolised by Z. An index Register contains value X.State how Z is calculated from other addresses if addressing modes of instruction is
+a. direct
+b. indirect
+c. relative
+d. indexed","","5","","","","","",""
+"6","224","An instruction is stored at location 300 with its address field at location 301.
+the address field has the value 400. A processor register R1 contains the number 200. Evalaute effective address if addressing mode of the instruction is direct, immediate, relative, register indirect, index with R1 as index register.","","3","","","","","",""
+"6","225","Perform logic AND, OR, XOR with two binary strings 10011100 and
+10101010","","2","","","","","",""
+"6","226","Given the 16 bit value 1001101011001101. What operation must be performed in under to:
+a. clear to 0 the first eight bits.
+b. set to 1 the last eight bits
+c. complement the middle eight bits.","","3","","","","","",""
+"6","227","An 8 bit register contains the value 01111011 and carry bit is equal to 1. Perform all shift operations.Each time start from initial value given above","","4","","","","","",""
+"6","228","Represent the following signed numbers in binary using 8 bits. +83 ; -83;
++68; -68
+a. Perform the addition -83 + (+68) in binary and interpret the result obatined.
+b. Perform the substraction (-68)-(+83) in binary and indicate if there is an overflow.
+c. Shift binary -68 once to the right and convert in decimal.
+d. Shift -83 once to left and indicate if there is an overflow.","","6","","","","","",""
+"6","229","Show the circuit labeled in check for zero output is an 8 bit NOR gate","","2","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"6","230","A 8 bit computer has a register R. Determine the values of status bit C, S,Z,V after each of the following instructions. The initial vlaue of register R in each case is hexadecimal 72. the numbers below are also in hexadecimal.
+a. Add immediate operand C6 to R.
+b. Add immediate operand 1E to R.
+c. Substract immediate operand 9A from R.
+d. And immediate operand 8D from R.
+e. XOR R with R.","","7","","","","","",""
+"6","231","Consider the two 8 bits A= 01000001 and B= 10000100.
+a. Give the decimal equivalen of each number assuming tht they are unsigned and they are signed.
+b. Add two binary  numbers and  inetrpret sum assuming that numbers are unsigned and signed.
+c. Determine values of C,S, Z, V after addition.
+d. List conditional branch instrcution thet will have true condition.","","7","","","","","",""
+"6","232","Consider the two 8 bits A= 01000001 and B= 10000100.
+a. Evaluate the difference A-B and interpret binary result.
+b. Determine values of C,S,Z,V
+c. List conditional branch instrcution thet will have true condition.","","7","","","","","",""
+"6","233","What are basic differences between a branch instruction, a call instruction
+and a program interrupt?","","3","","","","","",""
+"6","234","The content of the top of a memory stack is 5320. The content of the stack
+pointer SP is 3560. A two word call subroutine instruction is located in memory addresses 1120 followed by address field of 6720 at location 1121. What are contents of PC,Sp,and the top of Stack:
+a. before the call instruction is fetched from memory?
+b. After call instruction is executed?
+c. After return from subroutine?","","4","","","","","",""
+"6","235","Write a program to evaluate the arithmethic statement: X = [A-B+C*(D*E-F)]/[G+H*K]
+Using a. one address instruction, two address instruction, three address
+instruction, zero address instruction","","7","","","","","",""
+"6","236","The computer use register windows with following charcteristics. Determine the window size and total number of registers.
+Global Registers= 8 ; Local Registers = 8 ; Common Registers = 8; Number of
+Windows = 4","","2","","","","","",""
+"6","237","The computer use register windows with following charcteristics. Determine
+the window size and total number of registers.
+Global Registers= 10 ; Local Registers = 10 ; Common Registers = 6; Number of Windows = 8","","2","","","","","",""
+"6","238","The computer use register windows with following charcteristics. Determine the window size and total number of registers.
+Global Registers= 16 ; Local Registers = 16 ; Common Registers = 16;
+Number of Windows = 16","","2","","","","","",""
+"6","239","Write a program to evaluate the arithmethic statement: Y = A*B + C* D
+Using a. one address instruction, two address instruction, three address
+instruction, zero address instruction","","7","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"7","240","Pipelining is a                technique?","b","1","serial","parallel","Scalar operation","Superscalar operation","",""
+"7","241","The initial stage for an instruction executing in pipelining is       ?","c","1","Decode","Execute","Fetch","Address generation.","",""
+"7","242","The stages of 3 stage pipelining are     ?","a","1","Fetch, Decode,
+Execute","Decode, Fetch,
+Execute","Execute, Fetch,
+Decode","none of the above","",""
+"7","243","Throughput is calculated as----","a","1","The number of instructions/ Total time to complete the
+instructions","Total time to complete the instructions/number
+of instructions","Speed of the processor/ Number of instructions","The number of instructions/speed of the processor","",""
+"7","244","By using pipelining, the throughput of the processor     ?","c","1","decreases","becomes unity","Increases","Remains the same.","",""
+"7","245","Which of the below is not a pipeline conflicts?","d","1","resource conflicts","data dependency","branch difficulties","Balancing of load","",""
+"7","246","Which of the following is an advantage of pipelining?","d","1","Instruction throughput increases.","Faster ALU can be designed when pipelining is used.","Pipelining increases the overall performance of the
+CPU.","All of the above","",""
+"7","247","which of the following is not a part of flynn's classification?","a","1","SIDD","SISD","MISD","SIMD","MIMD","NONE"
+"7","248","RISC processor contains 10 global registers,10 local registers,6 in registers and 6 out registers.it contains 3 register windows,what is the size of window
+and register file of the processor?","b","1","30 and 74","32 and 58","22 and 64","26 and 58","22 and 70","32 and 72"
+"7","249","which is the correct pipeline pattern for RISC pipeline structure?","a","1","I,A,E","I,E,A","FI,DA,FO,EX","A,I,E","FI,DA,EX,FO","NONE of the above"
+"7","250","How many clock cycles will be needed to execute  Ai+Bi*Ci statement in
+pipeline architecture for i=1,2,3?","d","1","8","1","0","5","9","12"
+"7","251","which of the following stage is not a part of instruction pipeline?","a","1","DI","FO","EX","FI","IA","DA"
+"7","252","In an arithmatic pipeline,the time delays of 4 segments are 6,7,10 and 8ns respectively.the delay of tr=1ns.the clock cycle time(tp)is------","c","1","6","7","11","9","12","8"
+"7","253","for large number of task in a pipeline structure,speed-up ratio is nearly
+equivalent to?","d","1","no of tasks","no of registers","no of operands","no of segments","no of instructions","none of the above"
+"7","254","In arithmetic pipeline floating point addition is done in         part","a","1","3","2","1","5","4",""
+"7","255","           represents an organization that includes many processing units
+under the supervision of a common control unit","c","1","SSMD","MISD","SIMD","SISD","MIMD",""
+"7","256","Which processor requires more number of registers?","d","1","SIMD","8085","CISC","RISC","NONE","ALL OF THE ABOVE"
+"7","257","which of the following is not a pipeline conflicts?","d","1","branching","load balancing","time variation","data dependency","both b and d","both a and b"
+"7","258","Each stage in pipelining should be completed within                         cycle.","a","1","1","2","3","4","",""
+"7","259","The RISC processor has a more complicated design than CISC.","A","1","FALSE","TRUE","","","",""
+"7","260","In pipelining the task which requires the least time is performed first.","b","1","TRUE","FALSE","","","",""
+"7","261","To increase the speed of memory access in pipelining, we make use of","D","1","Special memory
+locations","Special purpose
+registers","Buffers","Cache","",""
+"7","262","Both the CISC and RISC architectures have been developed to reduce the","C","1","Cost","Time delay","Semantic gap","All of the mentioned","",""
+"7","263","The computer architecture aimed at reducing the time of execution of
+instructions is                  ","A","1","RISC","CISC","ISA","SIMD","",""
+"7","264","consider a pipeline having 4 phases with duration 60ns,50ns,90ns,80ns,given delay is 10ns. (1) calculate pipeline cycle time (2) non pipelineexecution time (3) speedup ratio(4) total non pipeline time for
+1000 task(5) pipeline time for 1000 task","","4","","","","","",""
+"7","265","arithmetic operation (Ai *Bi + Ci) with a stream of seven numbers (i=1 to
+7). Specify a pipeline configuration to carry out this task.","","4","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"7","266","A non-pipeline system takes to process a task. The same task can be processed in a six segment pipeline with a clock cycle of 10ns. Determine the speedup ratio of the pipeline for 100 tasks.What is the maximum speed
+up that can be achieved?","","4","","","","","",""
+"7","267","Draw a space-time diagram for a six -segment pipeline showing the time it
+takes to process eight tasks","","4","","","","","",""
+"7","268","For arithmetic operation (Ai+Bi)(Ci+Di) with a stream of numbers.Specify a
+pipeline  configuration to carry out this task.List the content of all registers in the pipeline for i=1 through 6","","4","","","","","",""
+"8","269","1’s complement of 1011101 is                           ","c","1","101110","1001101","100010","1100101","",""
+"8","270","2’s complement of 11001011 is                           ","c","1","1010111","11010100","110101","11100010","",""
+"8","271","On subtracting (01010)2 from (11110)2 using 1’s complement, we get","d","1","1001","11010","10101","10100","",""
+"8","272","On subtracting (001100)2 from (101001)2 using 2’s complement, we get","b","1","1101100","11101","11010101","11010111","",""
+"8","273","On addition of 28 and 18 using 2’s complement, we get                           ","b","1","101110","101110","101111","1001111","",""
+"8","274","On addition of +38 and -20 using 2’s complement, we get                           ","c","1","11110001","100001110","10010","110101011","",""
+"8","275","On addition of -46 and +28 using 2’s complement, we get                           ","a","1","-10010","-101","1011","100101","",""
+"8","276","On addition of -33 and -40 using 2’s complement, we get                           ","d","1","1001110","-110101","110001","-1001001","",""
+"8","277","On subtracting +28 from +29 using 2’s complement, we get                           ","d","1","11111010","111111001","100001","1","",""
+"8","278","                                      is a straightforward method of representing positive
+and negative numbers.","c","1","Radix","Complement","Sign Magnitude","Encode","",""
+"8","279","The 1’s complement of 1 in 4 bits is                      ","d","1","1","0","1001","1110","",""
+"8","280","The sign magnitude representation of -9 is                         ","c","1","1001","11111001","10001001","11001","",""
+"8","281","If you are given a word of size n bits, the range of 2’s complement of binary
+numbers is                  ","d","1","-2n+1 to +2n+1","-2n-1 to +2n-1","-2n-1 to +2n+1","-2n-1 to +2n-1-1","",""
+"8","282","In both signed magnitude and 2’s complement , positive and negative
+numbers are separated using                               ","b","1","LSB","MSB","0","1","",""
+"8","283","If m is the 2’s complement and n is the binary number, then","b","1","m=n’","m=n’+1","m=n’-1","m=n","",""
+"8","284","The additive inverse of a number is the number which when added to the
+original number gives 1 as a result.","False","1","","","","","",""
+"8","285","The bitwise complement of 0 is                         ","c","1","1","10000000","11111111","11111110","",""
+"8","286","Subtraction in computers is carried out by              ","b","1","1's complement","2's complement","3's complement","9's complement","",""
+"8","287","Perform (-9) +(-6) using signed 1's complement representation using only 5
+bits including sign","-15","1","","","","","",""
+"8","288","On addition of +35 and +40 using 2’s complement use 7 bit, we get","1 001011","1","","","","","",""
+"8","289","On addition of -35 and -40 using 2’s complement use 7 bit, we get","1 001011","1","","","","","",""
+"8","290","On addition of +35 and +40 using 2’s complement use 7 bit, we get","1 001011","1","","","","","",""
+"8","291","The addition of +19 and +43 results as                    in 2’s complement
+system.","d","1","11001010","101011010","101010","111110","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"8","292","The advantage of 2’s complement system is that                    ","a","1","Only one arithmetic operation is required","Two arithmetic
+operations are required","No arithmetic
+operations are required","Different Arithmetic
+operations are required","",""
+"8","293","For arithmetic operations only                    ","b","1","1’s complement is
+used","2’s complement","10’s complement","9’s complement","",""
+"8","294","0 101101 + 0 011111","001100","1","","","","","",""
+"8","295","1 011111 + 1 101101","-1001100","1","","","","","",""
+"8","296","0 101101 +1 100001","-001110","1","","","","","",""
+"8","297","0101101-0 101101","000000","1","","","","","",""
+"8","298","1 011111-0 101101","-001100","1","","","","","",""
+"9","299","Which of the following is used for binary multiplication ?","B","1","Restroing
+Multiplication","Booth's Algorithm","Pascal's Algorithm","Digit by Digit
+Multiplication","",""
+"9","300","One extra bit is Added on left of a binary number in case of binary multiplication using
+booth's Algorithm.","A","1","True","False","-","-","",""
+"9","301","The binary number obtained after applying RSC on 11010 will be","C","1","11101","10100","1101","1000","",""
+"9","302","The result of >> of 11001 by 3-bits will be                               ","A","1","1000","1111","111","11111","",""
+"9","303","Booth’s Algorithm is applied on                             ","B","1","decimal numbers","binary numbers","hexadecimal numbers","octal Numbers","",""
+"9","304","If Booth’s Multiplication is performed on the numbers 22*3, then what is 3
+referred to as                      ","D","1","accumulator","multiplicand","quotient","multiplier","",""
+"9","305","What is the value of n in multiplication of 110* 1000?","C","1","2","3","4","0","",""
+"9","306","What will be the value obtained after multiplication of (-2) * (-3) using
+Booth’s Algorithm?","A","1","6","-6","-2","-3","",""
+"9","307","What does the data transfer instruction STA stand for?","A","1","Store Accumulator","Send Accumulator","Send Action","Store Action","",""
+"9","308","The standard SRAM chips are costly as                   .","B","1","They use highly advanced
+micro-electronic
+devices","They house 6 transistor per chip","They require specially designed PCB’s","None of the mentioned","",""
+"9","309","The drawback of building a large memory with DRAM is                              .","C","1","The large cost factor","The inefficient memory organisation","The Slow speed of operation","All of the mentioned","",""
+"9","310","To overcome the slow operating speeds of the secondary memory we make use
+of faster flash drives.","A","1","TRUE","FALSE","-","-","",""
+"9","311","The fastest data access is provided using               .","D","1","Caches","DRAM’s","SRAM’s","Registers","",""
+"9","312","The memory which is used to store the copy of data or instructions stored in
+larger
+memories, inside the CPU is called               .","A","1","Level 1 cache","Level 2 cache","Registers","TLB","",""
+"9","313","The larger memory placed between the primary cache and the memory is
+called             .","B","1","Level 1 cache","Level 2 cache","EEPROM","TLB","",""
+"9","314","The next level of memory hierarchy after the L2 cache is               .","D","1","Secondary storage","TLB","Main memory","Register","",""
+"9","315","The last on the hierarchy scale of memory devices is             .","B","1","Main memory","Secondary memory","TLB","Flash drives","",""
+"9","316","In the memory hierarchy, as the speed of operation increases the memory
+size also increases.","B","1","TRUE","FALSE","-","-","",""
+"9","317","If we use the flash drives instead of the harddisks, then the secondary storage can go above
+primary memory in the hierarchy.","B","1","TRUE","FALSE","-","-","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"9","318","What is true about memory unit?","C","1","A memory unit is the collection of storage units or devices together.","The memory unit stores the binary information in the form of bits.","Both A and B","None of the above","",""
+"9","319","In how many categories memory/storage is classified?","A","1","2","3","4","5","",""
+"9","320","When when power is switched off which memory loses its data?","B","1","Non-Volatile Memory","Volatile Memory","Both A and B","None of the above","",""
+"9","321","Auxillary memory access time is generally                  times that of the main
+memory.","C","1","10","100","1000","10000","",""
+"9","322","What is the formula for Hit Ratio?","A","1","Hit/(Hit + Miss)","Miss/(Hit + Miss)","(Hit + Miss)/Miss","(Hit + Miss)/Hit","",""
+"9","323","Which of the following is correct example for Auxiliary Memory?","D","1","Magnetic disks","Tapes","Flash memory.","Both A and B","",""
+"9","324","Which of the following is correct refreshed rate for DRAM?","C","1","10~1000 ms","10~50 ms","10~100 ms","10~500 ms","",""
+"9","325","Which of the following is true?","A","1","To overcome the slow operating speeds of the
+secondary memory we
+make use of faster flash drives.","If we use the flash drives
+instead of the harddisks,
+then the secondary storage
+can go above primary memory in the hierarchy.","In the memory hierarchy,
+as the speed of operation
+increases the memory size
+also increases.","Both A and C","",""
+"9","326","With reference to IoT, how a system is associated with the data?","C","1","Intranet","Internet","Cloud","Extranet","",""
+"9","327","         number of lines are required to select                      memory locations.","A","1","10, 1024","2, 2","5, 1024","5, 5K","",""
+"9","328","Calculate the address lines required for 8 Kilobyte memory chip?","B","1","8","13","16","24","",""
+"9","329","1 gigabyte is equal to ?","C","1","1391 megabytes","1024 kilobytes","1024 megabytes","1150 megabytes","",""
+"9","330","             is the fastest to read from and write to than the other kinds of
+storage in a computer.","D","1","Floppy disk","Hard disk","CD-ROM","RAM","",""
+"9","331","Which of the following is a volatile memory?","A","1","Cache memory","Hard Disk","DVD","CD","",""
+"9","332","In a paged memory, the page hit ratio is 0.40. The time required to access a
+page in secondary
+memory is equal to 120 ns. The time required to access a page in primary memory is 15 ns.
+The average time required to access a page is ?","D","1","105","68","75","78","",""
+"9","333","The CPU clock speed refers to the number of:","D","1","CPUs it can have","RAMs it can have","Clocks it can have","Number of cycles
+CPU executes per second","",""
+"9","334","Principle of locality is used in               .","C","1","Registers","DMA","Cache Memory","Interrupt","",""
+"9","335","A 26-bit address bus has maximum accessible memory capacity of             .","A","1","64 MB","16 MB","1 GB","4 GB","",""
+"9","336","Which of the following memory improves the speed of execution of a
+program?","B","1","Primary memory","Cache memory","Secondary memory","Virtual memory","",""
+"9","337","Which of the following is not a valid category of Read Only Memory (ROM)?","D","1","PROM","EPROM","EEPROM","EEEPROM","",""
+"9","338","A byte is a group of ?","C","1","2 bits","4 bits","8 bits","16 bits","",""
+"9","339","A swap space can reside in ?","A","1","Separate disk partition","RAM","Cache","None of these","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"9","340","The seek time of a disk of is 30 ms. It rotates at the rate of 30 rotations per
+second. Each track has a capacity of 300 words.The access time is approximately?","B","1","45 ms","47 ms","48 ms","62 ms","",""
+"9","341","The minimum time delay between the initiation of two independent
+memory operations is called ?","B","1","Access time","Cycle time","Rotational time","Latency time","",""
+"9","342","Static RAM (SRAM) is faster than Dynamic RAM (DRAM) because                 .","C","1","SRAM uses capacitors","SRAM is costlier","SRAM does not
+require refreshing","SRAM is cheaper","",""
+"9","343","                 refers to the amount of time required to position the read - white
+head of a hard disk on appropriate sector.","A","1","Seek time","Rotational latency","Access time","Load time","",""
+"9","344","A hard disk is divided into tracks which are further subdivided into ?","B","1","clusters","sectors","vectors","heads","",""
+"9","345","What is the difference between a CDROM and a CDRW?","C","1","They are the same-just two different terms used by different manufacturers","A CD-ROM can be written to and a CD-RW cannot","A CD-RW can be written to, but a CD-ROM can only be read from","A CD-ROM holds more information than a CD-RW","",""
+"9","346","Why are the bubble memories are preferable to floppy disks?","C","1","Due to their higher transfer rate.","The cost needed to store a bit is less.","Due to their less consumption of power and reliability.","None of these","",""
+"9","347","Which of the following storage devices directly interacts with the CPU?","C","1","Tertiary Storage","Secondary Storage","Primary Storage","Hard Disk","",""
+"9","348","Questions concern a disk with a sector size of 512 bytes, 2000 tracks per surface, 50 sectors per track, five double-sided platters, and average seek time of 10 milliseconds. If one track of data can be transferred per
+revolution, then what is the data transfer rate ?","D","1","2,850 KBytes/second","4,500 KBytes/second","5,700 KBytes/second","2,250 KBytes/second","",""
+"9","349","If the disk platters rotate at 5400 rpm (revolutions per minute), then
+approximately what is the maximum rotational delay ?","A","1","0.011 seconds",". 0.11 seconds","0.0011 seconds","1.1 seconds","",""
+"9","350","How many 128 × 8 RAM chips are needed to provide a memory capacity of
+2048 bytes?","D","1","2","8","4","16","",""
+"9","351","Which of the following sets of words best describes the characteristics of a primary storage device, like RAM.","C","1","Cheap, non-volatile, fast access","Volatile, expensive, slow access","Expensive, volatile, fast access","Fast access, non-volatile, cheap","",""
+"9","352","Consider the following statements regarding memory:
+1. Integrated circuit RAM chips are available in both static and dynamic modes.
+2. The dynamic RAM stores the binary information in the form of electric charges that are
+applied tocapacitors.
+3. The static RAM is easier to use and has shorter read and write cycles.
+4. RAM and ROM chips are not available in a variety of physical sizes. Which of the above statements are correct ?","A","1","1 and 2 only","1, 3 and 4 only","2, 3 and 4 only","1, 2, 3 and 4","",""
+"9","353","Which of the following memories must be refreshed many times per
+second?","B","1","Static RAM","Dynamic RAM","EPROM","ROM","",""
+"9","354","A computer uses RAM chips of 1024 × 1 capacity. How many chips are needed to provide
+memory capacity of 16K bytes?","D","1","8","16","1024","128","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"9","355","How many 32 K × 1 RAM chips are needed to provide a memory capacity of
+256 K-bytes ?","C","1","8","32","64","128","",""
+"9","356","Among the following the volatile memory is","B","1","Bubble memory","RAM","ROM","Magnetic disc","",""
+"9","357","How many 128 × 8 RAM chips are needed to provide a memory capacity of
+2048 bytes?","D","1","2","8","4","16","",""
+"9","358","Which of the following technology can give high speed RAM?","B","1","TTL","CMOS","ECL","NMOS","",""
+"9","359","Which of the following sets of words best describes the characteristics of a
+primary storage device, like RAM.","A","1","Cheap, non-volatile,
+fast access","Volatile, expensive,
+slow access","Expensive, volatile,
+fast access","Fast access,
+non-volatile, cheap","",""
+"9","360","Consider the following statements regarding memory:
+1. Integrated circuit RAM chips are available in both static and dynamic modes.
+2. The dynamic RAM stores the binary information in the form of electric charges that are
+applied to capacitors.
+3. The static RAM is easier to use and has shorter read and write cycles.
+4. RAM and ROM chips are not available in a variety of physical sizes. Which of the above
+statements are correct ?","A","1","1 and 2 only","1, 3 and 4 only","2, 3 and 4 only","1, 2, 3 and 4","",""
+"9","361","Which of the following refers to the associative memory?","B","1","the address of the data is generated by the CPU","the address of the data is supplied by the users","there is no need for an address i.e. the data is used as
+an address","the data are accessed sequentially","",""
+"9","362","Which statements are correct?
+I: Associative mapping has no conflict miss and may have capacity miss. II: Direct mapping would have conflict miss.
+III. Hit latency in associative mapping is less than direct mapping.
+IV. Set associative mapping has more conflict miss than Direct mapped cache","A","1","I and III","I ,III and II","I ,II and IV","I and II","",""
+"9","363","Which of the following memory access mechanisms enables to retrieve a word based on a portion of its contents, rather than its address?","B","1","Direct access","Sequential access","Random access","Associative","",""
+"9","364","Consider a computer system which is word addressable and each word size is 4 bytes.
+A cache which is fully associative with tag size equal to 24 bits and block size is 64 bytes.
+Now, same cache is changed to 4 way setassociative mapping, find the size of tag in set
+associative organization which contains 1 M blocks?","D","1","4 bits","6 bits","8 bits","9 bits","",""
+"9","365","A certain processor uses a fully associative cache of size 16 kB. The cache
+block size is 16 bytes.
+Assume that the main memory is byte addressable and uses a 32-bit address. How many
+bits are required for the Tag and the Index fields respectively in the addresses generated
+by the processor?","D","1","24 bits and 0 bits","28 bits and 4 bits","24 bits and 4 bits","28 bits and 0 bits","",""
+"9","366","Which of the following memory access mechanisms enables to retrieve a word based on a portion of its contents, rather than its address?","D","1","Direct access","Sequential access","Random access","Associative","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"9","367","Which statements are correct?
+I: Associative mapping has no conflict miss and may have capacity miss. II: Direct mapping would have conflict miss.
+III. Hit latency in associative mapping is less than direct mapping.
+IV. Set associative mapping has more conflict miss than Direct mapped cache.","A","1","I and III","I ,III and II","I ,II and IV","I and II","",""
+"9","368","Consider cache memory 90% hit ratio is required to be installed in a memory system to reduce
+the average memoryaccess time from 250 ns to 34 ns. Calculate the cache
+memory access time required?","A","1","10","12","15","20","",""
+"9","369","Which of the following is mainly used for cache memory?","C","1","Blu-ray disk","DRAM","SRAM","DVD","",""
+"9","370","To reduce memory access time, a small, fast memory is inserted between the main memory and the processor. What is this memory called?","D","1","Accumulator","Register","Dynamic RAM","Cache","",""
+"9","371","A memory buffer used to accommodate a speed differential is called","B","1","stack pointer","cache","accumulator","disk buffer","",""
+"9","372","Which of the following is fastest memory?","B","1","Secondary Memory","Cache Memory","Auxiliary Memory","Auxiliary Memory","",""
+"9","373","A small text file created by a website that is stored in the user’s computer
+temporarily for that session is called           .","C","1","malware","bug","cookie","cache","",""
+"9","374","Which of the following is not true about Cache memory?","D","1","Faster memory
+than RAM","Volatile memory","Smaller in size
+than RAM","Sequential access
+memory","",""
+"9","375","Which of the following components of CPU is responsible to direct the
+system to execute instructions?","B","1","Arithmetic and
+Logic Unit (ALU)","Control Unit (CU)","Registers","Random Access
+Memory (RAM)","",""
+"9","376","Which of the following memories has the shortest access time?","A","1","Cache Memory","Magnetic Bubble
+Memory","Magnetic Core
+Memory","Random Access
+Memory","",""
+"9","377","Which of the following type of memory is the fastest to access?","B","1","ROM","Cache","SRAM","DRAM","",""
+"9","378","A cache memory needs an access time of 30 ns and main memory 150 ns, what is the average access time of CPU (assume hit ratio = 80%)?","A","1","60 ns","30 ns","150 ns","70 ns","",""
+"9","379","Which memory has the shortest access time?","B","1","ROM Non-volatile
+RAM","Main Memory","Random-access
+memory","Cache Memory","",""
+"9","380","Draw and criticize memory hierarchy in a computer system.","","3","","","","","",""
+"9","381","Explain memory hierarchy in brief.","","3","","","","","",""
+"9","382","What is RAM and ROM?","","3","","","","","",""
+"9","383","How main memory is useful in computer system? Explain the memory
+address map of RAM and ROM.","","3","","","","","",""
+"9","384","Write a short note on associative memory.","","7","","","","","",""
+"9","385","A 4-way set-associative cache memory unit with a capacity of 16 KB is built
+using a block size of 8 words. The word length is 32 bits. The size of the physical address space is 4 GB.
+How many bits for the will be required for TAG field?","","4","","","","","",""
+"9","386","Write through-cache and Write back cache. (COMPARE)","","7","","","","","",""
+"9","387","Elaborate cache coherence problem with its solutions.","","7","","","","","",""
+"9","388","What is cache memory? Interpret direct addressing mapping with diagram.","","7","","","","","",""
+"9","389","What is cache coherence? Describe.","","3","","","","","",""
+"9","390","What is cache memory address mapping? Compare and contrast direct
+address mapping and set-associative address mapping.","","7","","","","","",""
+"9","391","What do you mean by cache memory? Justify the need of cache memory in
+computer systems.","","4","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"9","392","What is cache memory address mapping? Which are the different memory
+mapping techniques?Explain any one of them in detail.","","7","","","","","",""
+"10","393","Input or output devices that are connected to computer are called            ","b","1","Input/Output
+Subsystem","Peripheral Devices","Interfaces","Interrupt","",""
+"10","394","How many types of modes of I/O Data Transfer?","d","1","2","4","5","3","",""
+"10","395","Which of the following statement/s is/are correct?
+(a) Keyboard and Mouse Comes under output periferal devices.
+(b) The method which offers higher speeds of I/O transfers is DMA
+(c) The data transfer rate of peripherals is usually slower than the transfer rate of the CPU","b","1","Only a and b","only b and c","only a","only c","",""
+"10","396","Which of the following is true about DMA?
+1.DMA is an approach of performing data transfers in bulk between memory and the external device without the intervention of the processor
+2. The DMA controller acts as a processor for DMA transfers and overlooks the entire process
+3.The DMA controller has 3 registers.","a","1","All 1, 2 and 3","only 1 and 2","only 2","only 1 and 3","",""
+"10","397","In memory-mapped I/O                           ","a","1","The I/O devices and the memory share the same address space","The I/O devices have a separate address space","The memory and I/O devices have an associated address
+space","A part of the memory is specifically set aside for the I/O operation","",""
+"10","398","The CPU activities the                      output to inform the external DMA that
+the buses are in the high-impedance state.","b","1","Bus request","bus grant","cycle stealing","none of these","",""
+"10","399","The main functions of input-output interface circuits is / are -","d","1","Data conversion","synchronization","device selection","all a,b and c","",""
+"10","400","The process of matching of operating speeds of CPU and other peripherals
+is known as -","b","1","Data conversion","synchronization","device selection","cycle stealing","",""
+"10","401","I/O bus consists of -","d","1","data lines","address lines","control lines","all a,b and c","",""
+"10","402","Which of the following is/are correct regarding I/O bus?
+(a) The I/O bus from the processor is attached to all peripheral interfaces.
+(b) I/O bus consists of data lines and control lines only
+(c) I/O bus is used for the selection of I/O devices by CPU","c","1","only 1 and 2","only 2","only 1","All 1, 2 and 3","",""
+"10","403","How many types of commands that an interface may receive?","c","1","2","3","4","5","",""
+"10","404","Which of the given command is not a valid command for I/O interface?","d","1","Status command","control command","Data output command","Interrupt command","",""
+"10","405","Which I/O command is issued to rewind the magnetic tape or to start the
+tape moving in the forward direction?","b","1","Status command","control command","Data output command","Data input command","",""
+"10","406","In  which mode, the I/O module and main memory exchange data directly,
+without processor involvement ?","a","1","DMA","Programmed I/O","Interrupt I/O","both b and c","",""
+"10","407","In which case the interface receives an item of data from the peripheral and
+places it in its buffer register?","d","1","Status command","control command","Data output command","Data input command","",""
+"10","408","Which device is used to provide an independent pathway for the transfer of information between external devices and internal memory?","d","1","IOP","data channel","address decoder","both a and b","",""
+"10","409","The control lines which are enabled during a memory transfer are -","a","1","memory read and
+memory write","I/O read and I/O write","Interrupt enable and
+disable","both a and b","",""
+"10","410","In which configuration only one set of read and write signals employed ?","a","1","Memory mapped I/O","Isolated I/O","Interrupt Initiated I/O","both a and b","",""
+"10","411","Which type of instructions are used by Computers with memory-mapped l/0
+to access l/0 data?","b","1","Register type","Memory type","I/O type","none of the above","",""
+"10","412","What is the difference between isolated and memory-mapped I/O?","","2","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"10","413","Match the following:
+1. Skip next instruction if flag is set.                               P - Data input command
+2. Read interface status register.                                      Q - Control command
+3. Move printer paper to beginning of next page.       R - Status command","C","1","1-P, 2-Q, 3-R","1-Q, 2-P, 3-R","1-Q, 2-R, 3-P","1-P, 2-R, 3-Q","",""
+"10","414","If the registers in the interface share a common clock with the CPU
+registers, the transfer between the two units is said to be -","a","1","Synchronous data
+transfer","Asynchronous data
+transfer","Common data transfer","None of these","",""
+"10","415","Which of the given methods are asynchronous data transfer method?","d","1","Handshaking Method","Strobe Pulse Method","cycle stealing","both a and b","",""
+"10","416","During DMA transfer, the DMA controller takes over the buses to manage the transfer -","d","1","Directly from CPU to memory","Directly from memory to CPU","Directly between the memory and registers","Directly between the I/O device and
+memory","",""
+"10","417","Priority is provided by                  for access to memory by various I/O
+channels and processors.","c","1","a register","a counter","a controller","the processor
+scheduler","",""
+"10","418","Which device is used for taking care of all data transfers between I/O units and the memory while the CPU is processing another program?","b","1","I/O Channel","IOP","RAM","Priority encoder","",""
+"10","419","The term “cycle stealing” refers to:","c","1","Interrupt-based data
+transfer","Polling mode data
+transfer","DMA-based data
+transfer","Clock cycle overriding","",""
+"10","420","Which of the given mapping technique will provide simpler hardware, simple instruction set and provides all addressing modes? (i) Memory
+mapped I/O (ii) Isolated I/O","c","1","Both (i) and (ii)","Only (ii)","only (i)","Neither (i) nor (ii)","",""
+"10","421","Which of the following is not an advantage of memory mapped technique?
+(i) Simple hardware (ii) Simple Instruction Size (iii) All address modes available (iv) More memory address space","b","1","(i), (iv) only","(iv) only","(i), (ii), (iii) only","(iii), (iv) only","",""
+"10","422","In which mode of transfer, each data transfer is initiated by an instruction in
+the program?","a","1","Programmed I/O","DMA","Interrupt initiated I/O","None","",""
+"10","423","Choose the correct option/s from the following regarding programmed I/O
+mode of transfer.
+(i) CPU stays in a program loop until the I/O unit indicates that it is ready for data transfer.
+(ii) Processor keeps busy needlessly in programmed I/O mode
+(iii) An interrupt facility is used to issue an interrupt request when data is available from the device.","a","1","All 1, 2 and 3","only 1 and 2","only 2","only 1 and 3","",""
+"10","424","In which mode of transfer, the interface transfers data into and out of the
+memory unit through the memory bus?","b","1","Programmed I/O","DMA","Interrupt initiated I/O","None","",""
+"10","425","Define the following terms in context with DMA: (A) Burst transfer (B) Cycle
+Stealing","","2","","","","","",""
+"10","426","Draw the block diagram of DMA controller and elaborate how the CPU
+initialize the DMA?","","3","","","","","",""
+"10","427","What is the difference between isolated I/O and memory-mapped I/O?
+What are the advantages and disadvantages of each?","","3","","","","","",""
+"10","428","Give at least six status conditions for the setting of individual bits in the
+status register of an asynchronous communication interface.","","2","","","","","",""
+"L.J Institute of Engineering and Technology, Ahmedabad. (COA) Question Bank (SEM-IV )","","","","","","","","","",""
+"Note : This question bank is only for reference purpose. LJU Test question paper may not be completely set from this question bank.","","","","","","","","","",""
+"chapt er_nu mber","grou p_id","question_text","answer_text","ma rks","option1","option2","option3","option4","option5","option6"
+"10","429","Why are the read and write control lines in a DMA controUer bidirectional? Under what condition and for what purpose are they used as inputs? Under what condition and for what purpose are they used as outputs?","","2","","","","","",""
+"10","430","Which type of register specifies the mode of transfer in DMA controller?","b","1","Address register","control register","word count register","Status register","",""
